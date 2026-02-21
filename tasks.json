@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "include bedsheets",
+    "status": "todo",
+    "createdAt": "2026-02-21T11:20:00.672Z",
+    "updatedAt": "2026-02-21T11:36:16.466Z"
+  },
+  {
+    "id": 2,
+    "description": "Buy Groceries",
+    "status": "done",
+    "createdAt": "2026-02-21T11:31:02.811Z",
+    "updatedAt": "2026-02-21T11:45:53.067Z"
+  }
+]
